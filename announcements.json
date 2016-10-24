@@ -1,0 +1,14 @@
+{"announcements":[{
+    "header":"Weather",
+    "admin":"Andrew",
+    "message":"Closed for rain on Tuesday"
+  }, {
+    "header":"Special Offers",
+    "admin":"Jenna",
+    "message":"Golf clubs to the first 10 people to come to our meeting"
+  }, {
+    "header":"Looking for work?",
+    "admin":"Maya",
+    "message":"We are now hiring, contact us for more information"
+  }]
+}
